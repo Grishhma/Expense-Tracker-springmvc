@@ -2,7 +2,7 @@
 
 A Java web application to track personal expenses using Spring Boot, Spring MVC, Thymeleaf, and H2 database.
 
----
+
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@ A Java web application to track personal expenses using Spring Boot, Spring MVC,
 - Delete expenses
 - Filter by category and date (extendable)
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -23,7 +23,7 @@ A Java web application to track personal expenses using Spring Boot, Spring MVC,
 - H2 in-memory database
 - Maven
 
----
+
 
 ## 📂 Folder Structure
 
@@ -38,7 +38,6 @@ expense-tracker/
 └── application.properties
 ```
 
----
 
 ## ⚙️ Getting Started
 
@@ -60,7 +59,7 @@ mvn spring-boot:run
 http://localhost:8080/expenses
 ```
 
----
+
 
 ## 🗃 Example Data
 
@@ -69,7 +68,7 @@ http://localhost:8080/expenses
 | Groceries   | 50.00  | Food     | 2024-01-01 |
 | Uber Ride   | 20.00  | Travel   | 2024-01-02 |
 
----
+
 
 ## ✅ Future Enhancements
 
@@ -78,8 +77,4 @@ http://localhost:8080/expenses
 - MySQL/PostgreSQL database
 - REST API version
 
----
 
-## 📄 License
-
-MIT License
